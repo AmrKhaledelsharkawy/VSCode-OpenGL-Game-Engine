@@ -16,7 +16,11 @@
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
-            }
+            },
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ]
         },
         {
             "name": "Linux",
@@ -63,5 +67,6 @@
                 "databaseFilename": ""
             }
         }
-    ]
+    ],
+    "version": 4
 }
